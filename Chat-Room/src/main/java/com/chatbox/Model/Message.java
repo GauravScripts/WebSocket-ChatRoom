@@ -11,7 +11,6 @@ public class Message {
 	}
 	public Message() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public String getName() {
 		return name;
