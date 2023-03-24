@@ -10,8 +10,6 @@ public class mycontroller {
 	
     @RequestMapping(value = "/",method=RequestMethod.GET)
 	public String about() {
-		
-		System.out.println("working...");
 		return "about";
 	}
 
